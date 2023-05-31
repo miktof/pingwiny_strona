@@ -1,0 +1,420 @@
+*{
+	margin:0;
+	padding:0;
+}
+#rodzic{
+}
+#Fabuła_serialu {
+  float:left;
+  width:62%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+
+#Bohaterowie_serialu{
+  float:left;
+  width:30%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+#Obsada_serialu_w_wersji_oryginalnej{
+  float:left;
+  width:31%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+#Obsada_serialu_w_wersji_polskiej{
+  float:left;
+  width:28%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+#Informacje_o_serialu{
+  float:left;
+  width:28%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+#Fabuła_filmu{
+  float:left;
+  width:56%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+#Obsada_filmu_w_wersji_oryginalnej{
+  float:left;
+  width:36%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}#Obsada_filmu_w_wersji_polskiej{
+  float:left;
+  width:36%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+#Informacje_o_filmie{
+  float:left;
+  width:38%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+#Przy_tworzeniu_strony_używałem_tych_źródeł{
+  float:left;
+  width:max(600px,54%);
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+}
+#FILM{
+  float:left;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+  width: 96%;
+}
+#SERIAL{
+  float:left;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 4%;
+  width: 96%;
+}
+#miejsce{
+	color: white;	
+}
+#zdjecie{
+  float:left;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 5%;
+  width: 30%;
+}
+#zdjecie2{
+  float:left;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 5%;
+  width: 100%;
+}
+#zdjecie3{
+  float:left;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 5%;
+  width: 35%;
+}
+#zdjecie4{
+  float:left;
+  margin: 1%;
+  padding: 2.5%;
+  border-radius: 5%;
+  width: 100%;
+}
+#zdjecie5{
+  float:left;
+  padding: 3.4%;
+  border-radius: 5%;
+  width: 100%;
+}
+#piosenki_maurice{
+  float:left;
+  margin: 1%;
+  padding: 2.5%;
+  border-radius: 5%;
+  width: 100%;
+}	
+#wrogowie{
+  float:left;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 5%;
+  width: 100%;
+}
+#opis_skipper{
+  border-radius: 4%;
+  width: 100%;	
+  padding: 2%;
+  margin-bottom: 3%;
+}
+#osobowosc{
+  border-radius: 4%;
+  margin-left: 5%;
+  width: 100%;	
+  padding: 2%;
+  margin-bottom: 3%;
+}
+#do_kolumny_6{
+  border-radius: 4%;
+  margin-left: 9%;
+  width: 100%;	
+  padding: 2%;
+  margin-bottom: 3%;
+}
+#do_kolumny_10{
+  border-radius: 4%;
+  margin-left: 9%;
+  width: 100%;	
+  padding: 2%;
+  margin-bottom: 2.7%;
+}
+#cytaty{
+  border-radius: 4%;
+  margin-left: 5%;
+  width: 100%;	
+  padding: 2.7%;
+  margin-bottom: 3%;
+}
+#wyglad_skippera{
+  border-radius: 5%;
+  width: 100%;	
+  padding: 2%;
+  margin-top: 3%;
+}
+#cechy{
+  border-radius: 5%;
+  width: 100%;	
+  padding:2%;
+  margin-top: 1%;
+}
+#cechy_szeregowego{
+  border-radius: 5%;
+  width: 100%;	
+  padding:2%;
+  margin-bottom: 1%;
+  margin-left: 2%;
+  
+}
+#ciekawostki_o_skiperze{
+  float:left;
+  padding: 1%;
+  margin: 1%;
+  border-radius: 4%;
+  width: 30%;	
+  font-size: 20px;	
+}
+#ciekawostki_o_szeregowym{
+  float:left;
+  padding: 2%;
+  margin: 1%;
+  border-radius: 4%;
+  width: 100%;	
+  font-size: 20px;	
+}
+#ciekawostki_o_julianie{
+  float:left;
+  padding: 2%;
+  margin-left: 10%;
+  margin-bottom: 4%;
+  border-radius: 4%;
+  width: 100%;	
+  font-size: 20px;	
+}
+#ciekawostki_o_maurice{
+  float:left;
+  padding: 2%;
+  margin-left: 10%;
+  margin-bottom: 4%;
+  border-radius: 4%;
+  width: 100%;	
+  font-size: 20px;	
+}
+#piosenki_juliana{
+  float:left;
+  padding: 2%;
+  margin-left: 10%;
+  border-radius: 4%;
+  width: 100%;	
+  font-size: 20px;		
+	
+}
+#biografia_szeregowego{
+  float:left;
+  padding: 2%;
+  margin: 2%;
+  border-radius: 4%;
+  width: 100%;	
+  font-size: 20px;		
+}
+#piosenki{
+  float:left;
+  padding: 3%;
+  margin: 2%;
+  border-radius: 4%;
+  width: 100%;	
+  font-size: 20px;		
+}
+#przyklady_wynalazki{
+  float:left;
+  padding: 1.5%;
+  margin: 1%;
+  border-radius: 4%;
+  width: 30%;	
+  font-size: 20px;	
+}
+.kolumna{
+	float:left;
+    padding: 1%;
+	width: 25%;
+	font-size: 20px;	
+}
+.kolumna2{
+	float:left;
+    padding: 1%;
+	width: 30%;
+	font-size: 20px;	
+}
+.kolumna3{
+	float:left;
+    padding: 1%;
+	width: 42%;
+	font-size: 20px;	
+}
+.kolumna4{
+	float:left;
+    padding: 1%;
+	width: 20%;
+	font-size: 20px;	
+}
+.kolumna5{
+	float:left;
+    padding: 1%;
+	width: 57%;
+	font-size: 20px;	
+}
+.kolumna6{
+	float:left;
+    padding: 1%;
+	width: 34%;
+	font-size: 20px;	
+}
+.kolumna7{
+	float:left;
+    padding: 1%;
+	width: 60%;
+	font-size: 20px;
+}
+.kolumna8{
+	float:left;
+    padding: 1%;
+	width: 32%;
+	font-size: 20px;	
+}
+.kolumna8{
+	float:left;
+    padding: 1%;
+	width: 32%;
+	font-size: 20px;	
+}
+.kolumna9{
+	float:left;
+    padding: 1%;
+	width: 53%;
+	font-size: 20px;	
+}
+.kolumna10{
+	float:left;
+    padding: 1%;
+	width: 37%;
+	font-size: 20px;	
+}
+.pudlo{
+	margin: 2%;
+	padding: 1%;
+	border-radius: 3%;
+	width: 45%;
+}	
+.duze_pudlo{
+	margin: 1%;
+	padding: 1%;
+	border-radius: 4%;
+	width: 96%;
+}	
+.kolor0{
+	background-color:#FCDE9C;
+	color:black;
+}
+.kolor1{
+	background-color:#FFD0A3; 
+	color: black;
+}
+.kolor2{
+	background-color:#FFA552; 
+	color: black;
+}
+.kolor3{
+	background-color:#BA5624; 
+	color: white;
+}
+.kolor4{
+	background-color:#5D3346; 
+	color: white;
+}
+.kolor5{
+	background-color:#C4D6B0; 
+	color: black;
+}
+.czarne_tlo{
+	background-color: black; 
+	color: white;
+}
+
+ol{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size:24px;
+  font-weight: bold;
+  height: 2em;
+  line-height: 2em;
+  text-align:center;
+}
+ol  a {
+  display:block;
+  color:black;
+  text-decoration:none;
+  padding:0;
+}
+
+ol > li {
+  float:left;
+  background-color:grey;
+  width:49%;
+  margin-left:1px;
+}
+ol > li > ul {
+  list-style-type:none;
+  padding:0;
+  margin:0;
+  display:none;
+}
+ol > li > ul > li > a {
+  border-top:1px solid #FFF;
+}
+ol > li:hover {
+  background-color:lightgrey;
+}
+ol > li:hover > ul {
+  display:block;
+  background-color:lightgrey;
+}
+ol > li:hover > a {
+  color:#FF0015;
+}
+ol > li > a:hover {
+  color:#FF0015;
+  list-style-type:none;
+  padding:0;
+  margin:0;
+}
+ol > li > ul > li:hover a {
+  color:#FF0015;
+}
